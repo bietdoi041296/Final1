@@ -1,0 +1,100 @@
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.exe.config
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.exe
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.pdb
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.xml
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.Resources.resources
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.vbproj.GenerateResource.Cache
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.exe
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.xml
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.pdb
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmThongTinKhachHang.resources
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmMain.resources
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmKH.resources
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmCapNhatSanPham.resources
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmXemSanPham.resources
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\bin\Debug\en\Assignment_PS03089.resources.dll
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\bin\Debug\vi\Assignment_PS03089.resources.dll
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.Language.resources
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmCapNhatSanPham.en.resources
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmMain.en.resources
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmMain.vi.resources
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\en\Assignment_PS03089.resources.dll
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\vi\Assignment_PS03089.resources.dll
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmXemSanPham.en.resources
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmThongTinKhachHang.en.resources
+C:\Users\GCafe\Desktop\Assignment\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmKH.en.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.exe.config
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.exe
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.xml
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.pdb
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.exe
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.pdb
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.xml
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\bin\Debug\en\Assignment_PS03089.resources.dll
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\bin\Debug\vi\Assignment_PS03089.resources.dll
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmCapNhatSanPham.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmKH.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmMain.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmThongTinKhachHang.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmXemSanPham.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.Language.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.Resources.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmCapNhatSanPham.en.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmKH.en.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmMain.en.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmMain.vi.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmThongTinKhachHang.en.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmXemSanPham.en.resources
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.vbproj.GenerateResource.Cache
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\en\Assignment_PS03089.resources.dll
+C:\Users\PC01\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\vi\Assignment_PS03089.resources.dll
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.exe.config
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.exe
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.xml
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.pdb
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.exe
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.pdb
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.xml
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\bin\Debug\en\Assignment_PS03089.resources.dll
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\bin\Debug\vi\Assignment_PS03089.resources.dll
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmCapNhatSanPham.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmKH.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmMain.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmThongTinKhachHang.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmXemSanPham.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.Language.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.Resources.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmCapNhatSanPham.en.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmKH.en.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmMain.en.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmMain.vi.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmThongTinKhachHang.en.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmXemSanPham.en.resources
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.vbproj.GenerateResource.Cache
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\en\Assignment_PS03089.resources.dll
+C:\Users\GCafe\Desktop\Assignment_PS03089\Assignment_PS03089\obj\Debug\vi\Assignment_PS03089.resources.dll
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.exe.config
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.exe
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.xml
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.pdb
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.exe
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.pdb
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\bin\Debug\Assignment_PS03089.xml
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\bin\Debug\en\Assignment_PS03089.resources.dll
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\bin\Debug\vi\Assignment_PS03089.resources.dll
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmCapNhatSanPham.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmKH.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmMain.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmThongTinKhachHang.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmXemSanPham.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.Language.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.Resources.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmCapNhatSanPham.en.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmKH.en.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmMain.en.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmMain.vi.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmThongTinKhachHang.en.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.frmXemSanPham.en.resources
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\Assignment_PS03089.vbproj.GenerateResource.Cache
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\en\Assignment_PS03089.resources.dll
+C:\Users\GCafe\Desktop\New folder\Assignment_PS03089\Assignment_PS03089\obj\Debug\vi\Assignment_PS03089.resources.dll

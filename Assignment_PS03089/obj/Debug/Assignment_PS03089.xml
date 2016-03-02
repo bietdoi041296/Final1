@@ -1,0 +1,82 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Assignment_PS03089
+</name>
+</assembly>
+<members>
+<member name="T:Assignment_PS03089.Helpers">
+	<summary>
+ MetroDisk
+ Created by: iSynthesis (HF)
+ Modified by: King Aldrin
+ Version: 1.0.6
+ Date Crafted: 26/01/2014
+ Email: king.aldrin31@gmail.com
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+ to remove the text, goto line 99
+
+</member><member name="F:Assignment_PS03089.MDAlertBox.W">
+	<summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Assignment_PS03089.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Assignment_PS03089.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Assignment_PS03089.My.Resources.Resources._18mna3ozupme8jpg__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Assignment_PS03089.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Assignment_PS03089.My.Resources.Resources.eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Assignment_PS03089.My.Resources.Resources.product">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Assignment_PS03089.My.Resources.Resources.product_setting">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Assignment_PS03089.My.Resources.Resources.setting">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Assignment_PS03089.My.Resources.Resources.setting1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Assignment_PS03089.My.Resources.Resources.United_Kingdom_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Assignment_PS03089.My.Resources.Resources.Vietnam_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Assignment_PS03089.My.Resources.Resources.vn">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Assignment_PS03089.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
